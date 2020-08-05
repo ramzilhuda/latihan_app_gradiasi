@@ -1,6 +1,9 @@
 # latihan_app_gradiasi
+Tampilan dari Pembuatan App Bar dengan menggunakan gradient warna :
 
-A new Flutter project.
+tampilan aplikasi : 
+![Screenshot_2020-08-05-12-06-42-87_781817043c153cb5026659f4f50453c4 1](https://user-images.githubusercontent.com/60292040/89374069-8346e280-d714-11ea-8927-43d93effd2fb.png)
+
 
 ## Getting Started
 
